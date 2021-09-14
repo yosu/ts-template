@@ -1,0 +1,16 @@
+{
+  "name": "ts-tsv-example",
+  "version": "0.0.1",
+  "description": "An experimentation of TSV manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "yosu",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
