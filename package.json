@@ -1,7 +1,7 @@
 {
-  "name": "ts-tsv-example",
+  "name": "ts-template",
   "version": "0.0.1",
-  "description": "An experimentation of TSV manipulation.",
+  "description": "A typescript project.",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/app.js",
